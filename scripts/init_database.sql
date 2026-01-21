@@ -24,8 +24,10 @@ END;
 GO
 
 CREATE DATABASE DataWarehouse;
+GO
 
 USE DataWarehouse;
+GO
 
 CREATE SCHEMA bronze;
 GO
